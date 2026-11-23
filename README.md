@@ -1,0 +1,7 @@
+# Beş Harf · Five Letters
+
+Gizli kelimeyi altı denemede bul!
+
+Beş harfli bir kelime yaz ve gönder. Yeşil: harf doğru yerde; sarı: kelimede var ama başka yerde; gri: yok. Klavye renkleri de yol gösterir.
+
+100.000 bölüm; her bölüm üretilir ve kurallara göre doğrulanır. Kelime Oyunları merkez uygulamasının oyunu; ortak motor: [kelime-motoru](https://github.com/taktemurr-ops/kelime-motoru).
